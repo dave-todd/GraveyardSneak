@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86e18ce8a5c481048856935d95163daf, type: 3}
+  m_Name: MasterTeleportData
+  m_EditorClassIdentifier: 
+  Graveyard0: {x: 3, y: 0, z: -56}
+  Graveyard1: {x: -3, y: 0, z: -50}
+  Dungeon1: {x: 34, y: 5, z: 6}
+  Graveyard2: {x: -20, y: 0, z: -55}
+  Dungeon2: {x: 86, y: 5, z: 6}
+  Graveyard3: {x: -57, y: 0, z: -48}
+  Dungeon3: {x: 60, y: 5, z: -30}
+  Graveyard4: {x: -42, y: 0, z: -56}
+  Dungeon4: {x: -99, y: 4, z: 0}
+  Graveyard5: {x: 48, y: 0, z: -56}
+  Dungeon5: {x: 19, y: 4, z: 0}
+  Graveyard6: {x: 2, y: 0, z: -25}
+  Dungeon6: {x: -40, y: -11, z: -39}
